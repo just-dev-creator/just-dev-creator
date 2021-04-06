@@ -1,5 +1,5 @@
 <!-- Shoutout to this guy on GitHub, he created these icons: https://github.com/carlsednaoui/gitsocial-->
-![Prints hi in multiple programming languages]()
+![Prints hi in multiple programming languages](https://raw.githubusercontent.com/just-dev-creator/just-dev-creator/master/hi.gif)
 # just.
 ## Student in Germany & hobby developer
 ## Skills
