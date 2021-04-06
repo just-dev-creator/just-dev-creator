@@ -1,5 +1,5 @@
 <!-- Shoutout to this guy on GitHub, he created these icons: https://github.com/carlsednaoui/gitsocial-->
-![Prints hi in multiple programming languages](https://im.ezgif.com/tmp/ezgif-1-ad9d9dbcc394.gif)
+![Prints hi in multiple programming languages]()
 # just.
 ## Student in Germany & hobby developer
 ## Skills
@@ -25,9 +25,6 @@ I can do some more advanced stuff in these languages and tools:
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
-
-And I also have some experience in HTML and CSS. 
-
 ## Projects
 * [A declinator for latin words](https://github.com/just-dev-creator/angular-latin-declinator)
 * [A discord bot for cowsay-integration, supporting slash commands, written in Python](https://github.com/just-dev-creator/Cowsay-Discord-Bot/)
@@ -42,7 +39,14 @@ I saw that many people put some stats to their personal README. So here you are:
 ![Some github stats](https://github-readme-stats.vercel.app/api?username=just-dev-creator&show_icons=true&count_private=true&theme=dracula)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just-dev-creator&theme=dracula)
 
+
 ## Socials
+<p align="left">
+<a href="https://codepen.io/just-dev-creator" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="just-dev-creator" height="30" width="40" /></a>
+<a href="https://dev.to/justdevcreator" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="justdevcreator" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13063314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13063314" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQQCuc7xSKDnJZvfMaAgMSA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="justcoding" height="30" width="40" /></a>
+</p>
 
 
 <!--
@@ -50,7 +54,6 @@ I saw that many people put some stats to their personal README. So here you are:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
