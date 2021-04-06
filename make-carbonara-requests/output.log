@@ -1,0 +1,211 @@
+/*
+ * File: output.log
+ * Project: make-carbonara-requests
+ * Copyright: This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ */
+console.log('hi')
+17
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'c' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'co' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'con' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'cons' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'conso' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'consol' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'console' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'console.' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'console.l' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'console.lo' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'console.log' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'console.log(' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: "console.log('" }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: "console.log('h" }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: "console.log('hi" }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: "console.log('hi'" }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: "console.log('hi')" }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: "console.log('hi'" }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: "console.log('hi" }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: "console.log('h" }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: "console.log('" }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'console.log(' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'console.log' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'console.lo' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'console.l' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'console.' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'console' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'consol' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'conso' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'cons' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'con' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'co' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: 'c' }
+}
+{
+  uri: 'http://127.0.0.1:3000/api/cook',
+  method: 'POST',
+  json: true,
+  body: { code: '' }
+}
