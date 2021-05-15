@@ -37,7 +37,7 @@ I can do some more advanced stuff in these languages and tools:
 ## Stats
 I saw that many people put some stats to their personal README. So here you are:
 ![Some github stats](https://github-readme-stats.vercel.app/api?username=just-dev-creator&show_icons=true&count_private=true&theme=dracula)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just-dev-creator&theme=dracula)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just-dev-creator&theme=dracula&exclude_repo=just-dev-creator.github.io)
 
 
 ## Socials
