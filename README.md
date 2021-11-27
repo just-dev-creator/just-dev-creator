@@ -27,8 +27,7 @@ I can do some more advanced stuff in these languages and tools:
 ## Projects
 * [A declinator for latin words](https://github.com/just-dev-creator/angular-latin-declinator)
 * [A discord bot for cowsay-integration, supporting slash commands, written in Python](https://github.com/just-dev-creator/Cowsay-Discord-Bot/)
-* [A discord bot for my minecraft server to help people killed by lag](https://github.com/just-dev-creator/etb-item-recovery-discord-bot)
-* [A minecraft project coming soon]()
+* [A GitHub action to download PaperMC to the runner](https://github.com/just-dev-creator/install-paper/)
 </br>
 
 ...and [much more](https://github.com/just-dev-creator?tab=repositories)
