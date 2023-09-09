@@ -32,12 +32,6 @@ I can do some more advanced stuff in these languages and tools:
 
 ...and [much more](https://github.com/just-dev-creator?tab=repositories)
 
-## Stats
-I saw that many people put some stats to their personal README. So here you are:
-![Some github stats](https://github-readme-stats.vercel.app/api?username=just-dev-creator&show_icons=true&count_private=true&theme=dracula)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just-dev-creator&theme=dracula&exclude_repo=just-dev-creator.github.io&langs_count=7)
-
-
 ## Socials
 <p align="left">
 <a href="https://codepen.io/just-dev-creator" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="just-dev-creator" height="30" width="40" /></a>
